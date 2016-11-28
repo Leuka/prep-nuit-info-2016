@@ -32,7 +32,7 @@
 * [Optional][] : une introduction au Optional dans java 8
 * [Introduction globale java 8][] : une introduction générale à Java
 
-### Jhipster
+### JHipster
 
 * [Jhipster official presentaiton][] : La présentation officielle de Jhipster
 * [Site officiel de JHipster][] : le site officiel de JHipster, plein de ressources
@@ -40,7 +40,7 @@
 
 ### Spring
 
-* [Spring JPA simple example][] : un example d'utilisation de JPA
+* [Spring JPA simple example][] : un exemple d'utilisation de JPA
 * [Spring JPA keywords][] : the spring jpa keywords for making your sql life easy !
 * [Spring REST][]: un framwork pour aider à la création de service REST
 
