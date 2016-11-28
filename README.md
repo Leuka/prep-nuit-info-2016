@@ -16,13 +16,20 @@
 
 ### Fortemnet recomander :
 
-* [Docker][] Logiciel de machine virtuelle, utile pour lancer des bases de données ou d'autre services
-* [Docker-compose][] Utilitaire pour lancer des docker pré-configurer
-* [GitKraken][] Utilitaire d'interface graphique pour Git
-* [Intellij][] Un merveilleux IDE avec le support java ET AngularJS dans sa version ultimate
+* [Docker][] : Logiciel de machine virtuelle, utile pour lancer des bases de données ou d'autre services
+* [Docker-compose][] : Utilitaire pour lancer des docker pré-configurer
+* [GitKraken][] : Utilitaire d'interface graphique pour Git
+* [Intellij][] : Un merveilleux IDE avec le support java ET AngularJS dans sa version ultimate
 
 
+## Ressources conseiller de lire
 
+### Java 8
+
+* [Introduction aux streams][] : une introduction aux nouveautées de stream dans java 8
+
+
+[Introduction aux streams]: http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
 [yarn]: https://yarnpkg.com
 [Node.js]: https://nodejs.org/
 [Bower]: http://bower.io/
