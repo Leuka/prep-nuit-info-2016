@@ -60,7 +60,7 @@ Pour tout installer à partir de Yarn, faire : ` sudo yarn global add yo generat
 [Introduction globale java 8]: http://www.supinfo.com/articles/single/1467-introduction-java-8-expressions-lambda-interface-fonctionnelle
 [Optional]: http://www.deadcoderising.com/2015-10-06-java-8-removing-null-checks-with-optional/
 [Introduction aux streams]: http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
-[yarn]: https://yarnpkg.com
+[yarn]: https://yarnpkg.com/en/docs/install
 [Node.js]: https://nodejs.org/
 [Bower]: http://bower.io/
 [Gulp]: http://gulpjs.com/
