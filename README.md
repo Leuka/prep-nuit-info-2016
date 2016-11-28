@@ -16,6 +16,8 @@
 * [JHipster][] : ( `npm install -g generator-jhipster`) générateur java-angular js
 * [Git][] : Gestionnaire de dépendance
 
+Pour tout installer à partir de Yarn, faire : ` sudo yarn global add yo generator-jhipster gulp bower `
+
 ### Fortemment recommandé :
 
 * [Docker][] : Logiciel de machine virtuelle, utile pour lancer des bases de données ou d'autres services
