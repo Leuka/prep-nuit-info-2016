@@ -18,7 +18,7 @@
 
 Pour tout installer à partir de Yarn, faire : ` sudo yarn global add yo generator-jhipster bower `
 
-**/!\** Attention, pour le moment, gulp ne peut pas être installer à partir de Yarn du a un bug.
+**__/!\__** Attention, pour le moment, gulp ne peut pas être installer à partir de Yarn du a un bug.
 
 ### Fortemment recommandé :
 
