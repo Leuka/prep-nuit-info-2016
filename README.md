@@ -1,5 +1,3 @@
-
-
 # Préparation à la nuit de l'info 2016
 
 
@@ -7,13 +5,13 @@
 
 ### Requis :
 
-* java jdk **8**
+* Java JDK **8**
 * [Node.js][] : gestionnaire de dépendances javascript
 * [yarn][] : amélioration de NPM, pas encore tout à fait prêt
 * [Gulp][] : outils pour travailler autour de javascript
-* [Bower][] : (npm install -g bower`) gestionaire de dépendance front-end
-* [Yeoman][] : ( `npm install -g yo` ) générateur d'application
-* [JHipster][] : ( `npm install -g generator-jhipster`) générateur java-angular js
+* [Bower][] : (`sudo npm install -g bower`) gestionaire de dépendance front-end
+* [Yeoman][] : (`sudo npm install -g yo` ) générateur d'application
+* [JHipster][] : (`sudo npm install -g generator-jhipster`) générateur java-angular js
 * [Git][] : Gestionnaire de dépendance
 
 Pour tout installer à partir de Yarn, faire : ` sudo yarn global add yo generator-jhipster bower `
@@ -26,7 +24,6 @@ Pour tout installer à partir de Yarn, faire : ` sudo yarn global add yo generat
 * [Docker-compose][] : Utilitaire pour lancer des docker pré-configurés
 * [GitKraken][] : Utilitaire d'interface graphique pour Git
 * [Intellij][] : Un merveilleux IDE avec le support java ET AngularJS dans sa version ultimate
-
 
 ## Ressources conseillées à lire
 
