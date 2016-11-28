@@ -1,3 +1,5 @@
+
+
 # Préparation à la nuit de l'info 2016
 
 
@@ -27,8 +29,11 @@
 ### Java 8
 
 * [Introduction aux streams][] : une introduction aux nouveautées de stream dans java 8
+* [Optional][] : une introduction au Optional dans java 8
+* [Introduction globale java 8][] : une introduction générale à Java
 
-
+[Introduction globale java 8]: http://www.supinfo.com/articles/single/1467-introduction-java-8-expressions-lambda-interface-fonctionnelle
+[Optional]: http://www.deadcoderising.com/2015-10-06-java-8-removing-null-checks-with-optional/
 [Introduction aux streams]: http://winterbe.com/posts/2014/07/31/java8-stream-tutorial-examples/
 [yarn]: https://yarnpkg.com
 [Node.js]: https://nodejs.org/
